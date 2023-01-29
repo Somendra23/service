@@ -11,5 +11,8 @@ public class App
         System.out.println( "Hello World!" );
         System.out.println("Adding !st change in STS==");
         System.out.println( "This is one addition from Github!!" );
+        
+            System.out.println( "Add this to test FETCH!!" );
+    
     }
 }
